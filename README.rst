@@ -2,7 +2,7 @@
 DynLin-UCB
 **********
 
-## Marco Mussi, Alberto Maria Metelli and Marcello Restelli
+Marco Mussi, Alberto Maria Metelli and Marcello Restelli
 
 Running Experiments
 ===================
@@ -23,12 +23,11 @@ If you are using this code for your scientific publications, please cite:
 .. code:: bibtex
 
     @article{mussi2022dynamical,
-      author    = {Marco Mussi and
-                   Alberto Maria Metelli and
-                   Marcello Restelli},
+      author    = {Mussi, Marco and Metelli, Alberto Maria and Restelli, Marcello},
       title     = {Dynamical Linear Bandits},
       journal   = {CoRR},
       year      = {2022},
+      doi = {10.48550/ARXIV.2211.08997},
       eprinttype = {arXiv},
    }
 
