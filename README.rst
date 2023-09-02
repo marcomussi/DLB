@@ -22,13 +22,15 @@ If you are using this code for your scientific publications, please cite:
 
 .. code:: bibtex
 
-    @article{mussi2022dynamical,
+    @inproceedings{mussi2023dynamical,
       author    = {Mussi, Marco and Metelli, Alberto Maria and Restelli, Marcello},
-      title     = {Dynamical Linear Bandits},
-      journal   = {CoRR},
-      year      = {2022},
-      doi = {10.48550/ARXIV.2211.08997},
-      eprinttype = {arXiv},
+      title        = {Dynamical Linear Bandits},
+      booktitle    = {International Conference on Machine Learning (ICML)},
+      series       = {Proceedings of Machine Learning Research},
+      volume       = {202},
+      pages        = {25563--25587},
+      publisher    = {{PMLR}},
+      year         = {2023}
    }
 
 How to contact us
